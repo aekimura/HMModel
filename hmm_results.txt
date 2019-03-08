@@ -1,0 +1,35 @@
+Hidden Markov Model Homework
+
+2-day:
+  day 1 = happy
+  day 2 = sad
+Most Likely State Pattern: Sunny -> Sunny
+Probability:    0.0853333333376
+
+3-day:
+  day 1 = happy
+  day 2 = sad
+  day 3 = happy
+Most Likely State Pattern: Sunny -> Sunny -> Sunny
+Probability:    0.0546133333361
+
+6-day:
+  day 1 = happy
+  day 2 = happy
+  day 3 = sad
+  day 4 = sad
+  day 5 = sad
+  day 6 = happy
+Most Likely State Pattern: Sunny -> Sunny -> Rainy -> Rainy -> Rainy -> Sunny
+Probability:    0.00169869312008
+
+7-day:
+  day 1 = happy
+  day 2 = sad
+  day 3 = happy
+  day 4 = sad
+  day 5 = happy
+  day 6 = sad
+  day 7 = happy
+Most Likely State Pattern: Sunny -> Sunny -> Sunny -> Sunny -> Sunny -> Sunny -> Sunny
+Probability:    0.000572662306162
